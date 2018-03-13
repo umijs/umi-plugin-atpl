@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "atpl-loader": "^0.2.0"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }

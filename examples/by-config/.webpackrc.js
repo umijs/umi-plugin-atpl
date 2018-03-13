@@ -1,0 +1,6 @@
+
+export default {
+  urlLoaderExcludes: [
+    /\.atpl$/,
+  ],
+}
