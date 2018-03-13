@@ -1,5 +1,7 @@
 # umi-plugin-atpl
 
+[![NPM version](https://img.shields.io/npm/v/umi-plugin-atpl.svg?style=flat)](https://npmjs.org/package/umi-plugin-atpl)
+
 Umi plugin for atpl, based on [atpl-loader](https://github.com/sorrycc/atpl-loader).
 
 ## Usage
