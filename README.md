@@ -20,6 +20,11 @@ export default {
 }
 ```
 
+## Examples
+
+* [atpl with this plugin](https://github.com/umijs/umi-plugin-atpl/tree/master/examples/by-plugin)
+* [atpl without this plugin](https://github.com/umijs/umi-plugin-atpl/tree/master/examples/by-config)
+
 ## LICENSE
 
 MIT
