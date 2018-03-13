@@ -1,0 +1,7 @@
+{
+  "name": "umi-plugin-atpl",
+  "version": "0.1.0",
+  "dependencies": {
+    "atpl-loader": "^0.2.0"
+  }
+}
