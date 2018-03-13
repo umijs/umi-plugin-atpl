@@ -1,6 +1,17 @@
 {
   "name": "umi-plugin-atpl",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/umi-plugin-atpl"
+  },
+  "homepage": "https://github.com/umijs/umi-plugin-atpl",
+  "authors": [
+    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+  ],
+  "bugs": {
+    "url": "https://github.com/umijs/umi-plugin-atpl/issues"
+  },
   "dependencies": {
     "atpl-loader": "^0.2.0"
   }
