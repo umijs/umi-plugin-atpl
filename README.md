@@ -14,7 +14,7 @@ $ npm install umi-plugin-atpl --save-dev
 
 Add plugin in `.umirc.js`.
 
-```
+```js
 export default {
   plugins: [
     'umi-plugin-atpl',
